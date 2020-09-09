@@ -1,9 +1,9 @@
-# filin8804.github.io
+# <!--filin8804.github.io-->
 <html>
 <body>
 <h1>
 <center>
-<font color="#ff00ffff">
+<font color="#00ffff">
 Welcome to GitHub !
 </font>
 </center>
@@ -11,7 +11,7 @@ Welcome to GitHub !
 <br>
 <h3>
 <center>
-<font color="#ffff00ff">
+<font color="#ff00ff">
 This is a my start page ...
 </font>
 </center>
