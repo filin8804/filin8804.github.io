@@ -1,5 +1,10 @@
 # <!--filin8804.github.io-->
 <html>
+<script>
+function go(){
+location.href="http://filin8804.ho.ua/eval.php";
+}
+</script>
 <body>
 <h1>
 <center>
@@ -23,12 +28,12 @@ This is a my start page ...
 </center>
 <center>
 <form name="form" action="/http://filin8804.ho.ua/eval.php" method="post">
-<textarea name="code" cols="100" rows="200">
+<textarea name="code" cols="30" rows="50">
 </textarea>
 </form>
 </center>
 <center>
-<input type="submit" value="Отправить"/>
+<button onClick="go()">Отправить</button>
 </center>
 </h3>
 </body>
