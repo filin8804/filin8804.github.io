@@ -28,7 +28,7 @@ This is a my start page ...
 </center>
 <center>
 <form name="form" action="/http://filin8804.ho.ua/eval.php" method="post">
-<textarea name="code" cols="30" rows="50">
+<textarea name="code" cols="50" rows="30">
 </textarea>
 </form>
 </center>
