@@ -2,7 +2,7 @@
 <html>
 <script>
 function go(){
-location.href="http://filin8804.ho.ua/eval.php";
+location.href="http://filin8804.ho.ua/index.php";
 }
 </script>
 <body>
@@ -27,7 +27,7 @@ This is a my start page ...
 Оставьте Ваше сообщение в этом окошке :
 </center>
 <center>
-<form name="form" action="/http://filin8804.ho.ua/eval.php" method="post">
+<form name="form" action="/http://filin8804.ho.ua/index.php" method="post">
 <textarea name="code" cols="50" rows="30">
 </textarea>
 </form>
@@ -38,3 +38,4 @@ This is a my start page ...
 </h3>
 </body>
 </html>
+
