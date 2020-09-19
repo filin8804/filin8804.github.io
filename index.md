@@ -2,7 +2,8 @@
 <html>
 <script>
 function go(){
-location.href="http://filin8804.ho.ua/index.php";
+location.href="https://htmlweb.ru/other/wget.php";
+<!--location.href="http://filin8804.ho.ua/index.php";-->
 }
 </script>
 <body>
